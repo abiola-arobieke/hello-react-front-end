@@ -102,7 +102,7 @@ Then, run the following command to start the app
 
 
 ```sh
-  [Click to view the backend](https://github.com/abiola-arobieke/hello-react-front-end.git)
+  [Click to view the backend](https://github.com/abiola-arobieke/hello-rails-back-end.git)
 ```
 
 ## 🔭 Future Features <a name="future-features"></a>
