@@ -74,12 +74,20 @@ Change directory to the project folder
   cd hello-react-front-end
 ```
 
+### Install
+
+On your code editor terminal, run the following command to install node modules
+
+```sh
+  npm install
+```
+
 ### Usage
 
 Then, run the following command to start the app
 
 ```sh
-    rails s
+    npm start
 ```
 
 ## 👥 Author <a name="author"></a>
