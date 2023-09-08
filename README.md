@@ -100,6 +100,11 @@ Then, run the following command to start the app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+```sh
+  [Click to view the backend](https://github.com/abiola-arobieke/hello-react-front-end.git)
+```
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Add user authentication**
