@@ -87,7 +87,7 @@ On your code editor terminal, run the following command to install node modules
 Then, run the following command to start the app
 
 ```sh
-    npm start
+  npm start
 ```
 
 ## 👥 Author <a name="author"></a>
